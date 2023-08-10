@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+MIDlet-Description: The Puyo Puyo Fever DX (J2ME) mod that improves th
+ e game with major features, improvements, and implementations!
+MIDlet-1: Puyo Pop Fever Re:Chained LITE (240),\icon.png,puyo.Puyo
+MIDlet-Vendor: © SEGA, Modded by RTL
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Name: Puyo Pop Fever Re:Chained LITE
+MIDlet-Version: 1.51
+Created-By: 1.8.0_301 (Oracle Corporation)
+MIDlet-Icon: /icon.png
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Delete-Confirm: Are you sure do you want to delete Puyo Pop Fev
+ er Re:Chained LITE? All of your progress and rankings will be lost an
+ d this cannot be undone!
+MIDlet-Jar-URL: Puyo_Pop_Fever_ReChained_LITE_1.51_240.jar
+MIDlet-Jar-Size: 282624
