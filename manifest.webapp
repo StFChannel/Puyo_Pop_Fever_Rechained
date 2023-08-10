@@ -1,16 +1,16 @@
 {
-  "name": "RF2005",
-  "description": "a mobile soccer game by Gameloft in 2005",
+  "name": "Puyo_Pop_Fever_Rechained",
+  "description": "My KaiOS port of J2ME game Puyo Pop Fever Re:Chained modded by @Realtimeless",
   "launch_path": "/main.html",
-  "origin": "app://pluotsorbet-template.opengiraffes.top",
+  "origin": "app://puyo_pop_fever_rechained.stfchannel.top",
   "version": "1624444801",
   "icons": {
     "128": "/img/icon-128.png",
     "512": "/img/icon-512.png"
   },
   "developer": {
-    "name": "openGiraffes Group",
-    "url": "https://opengiraffes.top"
+    "name": "StFChannel",
+    "url": "https://www.youtube.com/@SofiatheFirstChannel2003"
   },
   "default_locale": "en",
   "orientation": ["portrait", "landscape"],
